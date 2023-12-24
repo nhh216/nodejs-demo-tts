@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-save-text",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mime": "^4.0.1"
+  }
+}
